@@ -6,7 +6,7 @@ Llenguatges de Programació
 
 # Presentació
 
-2023-2024 Q2
+2024-2025 Q1
 
 <br/>
 
@@ -120,25 +120,25 @@ del curs.
 
 - Classes:
 
-    - Inici: dv 12 de febrer
+    - Inici: dv 9 de setembre
 
-    - Final: dv 31 de maig
+    - Final: dv 20 de desembre
 
 - Exàmens:
 
-    - Examen parcial: dj 4 d'abril
+    - Examen parcial: dj 7 de novembre
         (15:30 - 17:30)
 
-    - Examen final: dv 14 de juny
+    - Examen final: dj 9 de gener
         (15:00 - 18:00)
 
 - Treballs:
 
-    - Lliurament pràctica: dl 10 de juny (08:00)
+    - Lliurament pràctica: dt 7 de gener (08:00)
 
-    - Lliurament treball dirigit: dx 22 de maig (08:00)
+    - Lliurament treball dirigit: dl 2 de desembre (08:00)
 
-    - Correcció treball dirigit: dl 10 de juny (08:00)
+    - Correcció treball dirigit: dl 20 de desembre (08:00)
 ---
 
 

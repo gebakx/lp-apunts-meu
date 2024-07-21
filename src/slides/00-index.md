@@ -3,7 +3,7 @@ class: center, middle
 
 # Llenguatges de Programació
 
-## Curs 2023-2024 Q2
+## Curs 2024-2025 Q1
 
 <br/>
 
@@ -12,7 +12,7 @@ class: center, middle
 
 
 
-Jordi Petit
+Jordi Petit 
 
 <br/>
 
@@ -22,16 +22,16 @@ Universitat Politècnica de Catalunya, 2024
 
 # Llenguatges de Programació
 
-## Curs 2023-2024 Q2
+## Curs 2024-2025 Q1
 
 - [Presentació del curs](01-presentacio.html)
 - [Conceptes bàsics](02-introduccio.html)
 - [Fonaments: λ-càlcul](03-lambda-calcul.html)
 - [Programació funcional en Haskell](https://www.cs.upc.edu/~jpetit/Haskell)
-- [Inferència de tipus](11-inferencia-tipus.html)
 - [Raonament equacional](16-raonament-equacional.html)
 - [Introducció a la compilació](13-compilacio.html)
 - [Programació en Python](https://gebakx.github.io/Python3)
+- [Inferència de tipus](11-inferencia-tipus.html)
 - [POO, herència i subtipus](14-subtipus.html)
 - [Treball dirigit](10-treball-lps.html)
 
